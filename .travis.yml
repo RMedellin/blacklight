@@ -23,6 +23,7 @@ before_install:
 
 env:
  - "RAILS_VERSION=5.0.3"
+ - "ENGINE_CART_RAILS_OPTIONS= --skip-git --skip-bundle"
 
 notifications:
   irc: "irc.freenode.org#blacklight"
