@@ -34,17 +34,17 @@ es:
         success:
           one: 'Éxito al añadir su favorito.'
           other: 'Éxito añadido favorito.'
-        failure: 'Lo siento, hubo un problema al guardar los favoritos.'
+        failure: 'Lo sentimos, hubo un problema al guardar los favoritos.'
       remove:
         button: 'Borrar favorito'
-        success: 'Borrado favorito.'
-        failure: 'Lo siento, hubo un problema al borrar los favoritos.'
+        success: 'Favorito borrado.'
+        failure: 'Lo sentimos, hubo un problema al borrar los favoritos.'
         action_confirm: '¿Quitar este favorito?'
       clear:
         action_title: 'Borrar favorito'
         action_confirm: '¿Borrar sus favoritos?'
         success: 'Se borraron sus favoritos.'
-        failure: 'Lo siento, hubo un problema al borrar sus favoritos.'
+        failure: 'Lo sentimos, hubo un problema al borrar sus favoritos.'
       need_login: 'Por favor, inicie sesión para administrar y ver sus favoritos.'
       list_title: 'Mis Favoritos'
       delete: 'Borrar'
@@ -55,7 +55,7 @@ es:
         failure: 'Hubo un problema al guardar su búsqueda.'
       remove:
         success: 'Éxito al borrar su búsqueda.'
-        failure: 'Lo siento, hubo un problema al borrar su busqueda.'
+        failure: 'Lo sentimos, hubo un problema al borrar su busqueda.'
       clear:
         action_title: 'Borrar Búsquedas Guardadas'
         action_confirm: '¿Borrar Búsquedas Guardadas?'
