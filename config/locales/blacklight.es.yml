@@ -115,7 +115,7 @@ es:
 
       errors:
         to:
-          invalid: 'Debe entrar un email válido'
+          invalid: 'Debe introducir un email válido'
           blank: 'Debe introducir un destinatario para enviar este mensaje'
     sms:
       form:
@@ -131,11 +131,11 @@ es:
       success: "SMS enviado"
       errors:
         to:
-          invalid: 'Debe entrar un número de teléfono válido de 10 dígitos'
-          blank: "Debe introducir el número de teléfono del destinatario para enviar este mensaj"
+          invalid: 'Debe introducir un número de teléfono válido de 10 dígitos'
+          blank: "Debe introducir el número de teléfono del destinatario para enviar este mensaje"
         carrier:
           blank: 'Debe seleccionar compañía telefónica'
-          invalid: "Debe entrar una compañía telefónica válida"
+          invalid: "Debe introducir una compañía telefónica válida"
 
     back_to_search: 'Volver a Buscar'
     back_to_bookmarks: 'Volver a sus favoritos'
@@ -216,7 +216,7 @@ es:
       zero_results:
         title: "No se han encontrado resultados para su búsqueda"
         modify_search: "Intente modificar su búsqueda"
-        use_fewer_keywords: "Use menos palabras para empezar, y luego refinar la búsqueda utilizando los enlaces de la izquierda."
+        use_fewer_keywords: "Use menos palabras para empezar, y luego refine la búsqueda utilizando los enlaces de la izquierda."
         search_fields: "Usted busco por %{search_fields}"
         search_everything: "Pruebe a buscar de todo"
       view_title: "Ver Resultados por: "
