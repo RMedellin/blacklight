@@ -15,8 +15,8 @@ es:
     application_name: 'Blacklight'
 
     header_links:
-      login: 'Entrar'
-      logout: 'Salir'
+      login: 'Iniciar sesión'
+      logout: 'Cerrar sesión'
       bookmarks: 'Favoritos'
       saved_searches: 'Búsquedas guardadas'
       search_history: 'Historia'
